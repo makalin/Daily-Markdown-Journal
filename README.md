@@ -19,8 +19,8 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/daily-journal.git
-   cd daily-journal
+   git clone https://github.com/makalin/Daily-Markdown-Journal.git
+   cd Daily-Markdown-Journal
    ```
 
 2. **Set Up the Environment**:
